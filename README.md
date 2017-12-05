@@ -3,12 +3,14 @@
 <strong>Quick set-up:</strong>
 
 In line 38, you can find SQL configuration there.
-Change them as your MySQL server configuration.
-  SQL_HOSTNAME "localhost"
-  SQL_USERNAME "root"
-  SQL_DATABASE "ls-rp"
-  SQL_PASSWORD "root"
 
+Change them as your MySQL server configuration.
+<ul>
+  <li>SQL_HOSTNAME "localhost"</li>
+ <li> SQL_USERNAME "root"</li>
+ <li> SQL_DATABASE "ls-rp"</li>
+  <li>SQL_PASSWORD "root"</li>
+</ul>
 <strong><h4>Feature / What's new?</h4></strong>
 <ul>
   <li>B-RP features</li>
