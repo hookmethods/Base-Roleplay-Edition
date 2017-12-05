@@ -1,5 +1,9 @@
 # Base Roleplay Edition
 
+Intro:
+
+a roleplay script that was plan to run in China.
+
 <strong>Quick set-up:</strong>
 
 In line 38, you can find SQL configuration there.
