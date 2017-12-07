@@ -37,7 +37,5 @@ Change them as your MySQL server configuration.
 <ul>
   <li>Phone sys (It just a demo but I set up the functions, just do ur magic)</li>
   <li>Housing sys (Furniture)</li>
-  <li>Vehicle sys rewrote</li>
-  <li>Phone sys rewrote</li>
   <li>More, more..</li>
 </ul>
